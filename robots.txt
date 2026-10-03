@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tls-sanxia.github.io/tls.sanxia/sitemap.xml
